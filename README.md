@@ -2,8 +2,6 @@
 
 ## In this project, I have Analysed the Sales Data of AtliQ hardware company. 
 
-* SQL Database provided by 'codebasics' youtube channel by Dhaval Patel Sir.
-
 Here are some insights dashboards:
 
 ![revenue trend](https://github.com/erkushagra/PowerBI_Insights/blob/main/Snaps/TRevenue.PNG)
